@@ -3,8 +3,10 @@ This is a demo of a Replicate Streamlit chatbot app. The app uses a single API t
 
 For a walkthrough of the demo and to hear from Replicate founding designer Zeke Sikelianos, check out the video [here](https://youtu.be/zsQ7EN10zj8).
 
+For more in-depth reading on Replicate and this demo app, check out the blog [here](https://blog.streamlit.io/how-to-create-an-ai-chatbot-llm-api-replicate-streamlit/).
+
 ## Prerequisites
-* Python
+* Python version >=3.8, !=3.9.7
 * A [Replicate API token](https://replicate.com/signin?next=/account/api-tokens)
     (Please note that a payment method is required to access features beyond the free trial limits.)
 
