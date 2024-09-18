@@ -11,8 +11,8 @@ __pycache__/
 *$py.class
 
 # Environments
-replicatevenv/
-weaviatevenv/
+recipes/replicate/replicatevenv/*
+recipes/weaviate/weaviatevenv/*
 
 # Secrets
 *secrets.toml
@@ -20,3 +20,4 @@ weaviatevenv/
 # Recipe specific
 recipes/weaviate/helpers/data/posters
 
+recipes/replicate/replicatevenv/*
