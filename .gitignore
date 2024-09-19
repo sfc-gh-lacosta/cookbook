@@ -13,11 +13,10 @@ __pycache__/
 # Environments
 recipes/replicate/replicatevenv/*
 recipes/weaviate/weaviatevenv/*
+recipes/replit/replitvenv/*
 
 # Secrets
 *secrets.toml
 
 # Recipe specific
 recipes/weaviate/helpers/data/posters
-
-recipes/replicate/replicatevenv/*
